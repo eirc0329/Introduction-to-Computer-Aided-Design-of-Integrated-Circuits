@@ -1,6 +1,5 @@
 # Introduction-to-Computer-Aided-Design-of-Integrated-Circuits
-
-## Programming Assignments
+> NTHU 2022 Spring
 
 ### Assignment 1:Two-Level Logic Optimization
 
